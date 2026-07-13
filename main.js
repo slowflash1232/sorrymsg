@@ -15,7 +15,7 @@ gif.style.width = "400px";
   yesBtn.innerHTML = "Accha thik hai";
 
   yesBtn.addEventListener("click", () => {
-    question.innerHTML = "I love you babuu, please call kro na ab yrr pleaseeeeee";
+    question.innerHTML = "I love you babuu, I missed you sooo muchh please call kro na ab yrr pleaseeeeee";
     gif.src = "images/love.gif";
     yesBtn.style.display = "none";
     noBtn.style.display = "none";
@@ -28,7 +28,7 @@ gif.style.width = "400px";
     noBtn.innerHTML = "Nahi Sochna";
 
     yesBtn.addEventListener("click", () => {
-      question.innerHTML = "I love you babuu, please call kro na ab yrr pleaseeeeee";
+      question.innerHTML = "I love you babuu, I missed you sooo muchh please call kro na ab yrr pleaseeeeee";
       gif.src = "images/love.gif";
       yesBtn.style.display = "none";
       noBtn.style.display = "none";
@@ -41,7 +41,7 @@ gif.style.width = "400px";
       noBtn.innerHTML = "Final no";
 
       yesBtn.addEventListener("click", () => {
-        question.innerHTML = "I love you babuu, please call kro na ab yrr pleaseeeeee";
+        question.innerHTML = "I love you babuu, I missed you sooo muchh please call kro na ab yrr pleaseeeeee";
         gif.src = "images/love.gif";
         yesBtn.style.display = "none";
         noBtn.style.display = "none";
@@ -54,7 +54,7 @@ gif.style.width = "400px";
         noBtn.innerHTML = "Yes";
 
         noBtn.addEventListener("click", () => {
-          question.innerHTML = "I love you babuu, please call kro na ab yrr pleaseeeeee!";
+          question.innerHTML = "I love you babuu, I missed you sooo muchh please call kro na ab yrr pleaseeeeee!";
           gif.src = "images/love.gif";
           yesBtn.style.display = "none";
           noBtn.style.display = "none";

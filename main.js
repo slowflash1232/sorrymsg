@@ -35,7 +35,7 @@ gif.style.width = "400px";
     })
 
     noBtn.addEventListener("click", () => {
-      question.innerHTML = "ek baar aur soch lo pleaseeee";
+      question.innerHTML = "ek baar aur soch lo pleaseeee babu, mat tadpao na itna";
       gif.src = "images/sadlife.gif";
       yesBtn.innerHTML = "Chalo maan gayi";
       noBtn.innerHTML = "Final no";
@@ -48,13 +48,13 @@ gif.style.width = "400px";
       });
 
       noBtn.addEventListener("click", () => {
-        question.innerHTML = "Please yrr, maan jao na aap toh meri devi ho";
+        question.innerHTML = "Please yrr, maan jao na aap toh meri devi ho na please maaf kr do";
         gif.src = "images/run.gif";
-        yesBtn.innerHTML = "No";
+        yesBtn.innerHTML = "haan maan gyi bhai";
         noBtn.innerHTML = "Yes";
 
         noBtn.addEventListener("click", () => {
-          question.innerHTML = "I love you babuu, please call kro na ab yrr peaseeeeee!";
+          question.innerHTML = "I love you babuu, please call kro na ab yrr pleaseeeeee!";
           gif.src = "images/love.gif";
           yesBtn.style.display = "none";
           noBtn.style.display = "none";
